@@ -1,7 +1,7 @@
 # Portfolio Home Page & Project Highlights
 
 ## Project Description
-Create a personal website to highlight my experience and code projects. As part of the portfolio, highlight three coding projects that encountered in your MIT xPRO Professional Certificate in Coding: Women's Cohort course.
+Create a personal website to highlight my experience and code projects. As part of the portfolio, highlight three coding projects that I encountered in my MIT xPRO Professional Certificate in Coding: Women's Cohort course.
 
 ## How to use it?
 1. Download the following 3 files from the master branch of this repository into a directory on your local machine:<br />
